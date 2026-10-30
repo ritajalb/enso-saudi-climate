@@ -1,0 +1,5 @@
+operation,pandas_cpu_s,cudf_gpu_s,speedup
+read_csv,3.232,0.233,13.874
+groupby (climatology),0.186,0.006,28.853
+merge,0.398,0.027,14.916
+sort,0.397,0.026,15.52

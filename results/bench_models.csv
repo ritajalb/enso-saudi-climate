@@ -1,0 +1,3 @@
+model,sklearn_cpu_s,cuml_gpu_s,speedup
+LinearRegression,0.961,1.297,0.741
+RandomForest (50 trees),198.157,7.808,25.378
